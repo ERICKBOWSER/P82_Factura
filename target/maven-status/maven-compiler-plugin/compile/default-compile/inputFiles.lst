@@ -1,0 +1,7 @@
+/home/guerig/NetBeansProjects/p82_GuerigEri/src/main/java/controllers/exceptions/IllegalOrphanException.java
+/home/guerig/NetBeansProjects/p82_GuerigEri/src/main/java/controllers/exceptions/PreexistingEntityException.java
+/home/guerig/NetBeansProjects/p82_GuerigEri/src/main/java/entities/Factura.java
+/home/guerig/NetBeansProjects/p82_GuerigEri/src/main/java/controllers/FacturaJpaController.java
+/home/guerig/NetBeansProjects/p82_GuerigEri/src/main/java/controllers/exceptions/NonexistentEntityException.java
+/home/guerig/NetBeansProjects/p82_GuerigEri/src/main/java/application/Interfaz.java
+/home/guerig/NetBeansProjects/p82_GuerigEri/src/main/java/controllers/ControladoraPersistencia.java
